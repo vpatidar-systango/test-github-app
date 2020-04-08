@@ -1,2 +1,2 @@
 # test-github-app
-test1
+test
